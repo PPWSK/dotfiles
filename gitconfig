@@ -1,0 +1,5 @@
+[user]
+	name = Vadim Popowsky
+	email = vadimpopowsky@gmail.com
+[core]
+	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
